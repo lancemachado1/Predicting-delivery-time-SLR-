@@ -1,1 +1,2 @@
-# Predicting-delivery-time-SLR-
+# Predicting-delivery-time-SLR
+Predict delivery time using sorting time.
